@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\department_manahement_be\\department_management\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|solutionrelative:department_management\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\department_manahement_be\\department_management\\src\\web\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|solutionrelative:department_management\\src\\web\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\department_manahement_be\\department_management\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BA97F40-E4BD-4B21-B7E1-9C879F799012}|Department_Management\\src\\Web\\Web.csproj|solutionrelative:department_management\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeDocumentMoniker": "Department_Management\\src\\Web\\Endpoints\\Users.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeToolTip": "Department_Management\\src\\Web\\Endpoints\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:41:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Department_Management\\src\\Web\\DependencyInjection.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\DependencyInjection.cs",
+              "RelativeToolTip": "Department_Management\\src\\Web\\DependencyInjection.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:45:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Department_Management\\src\\Web\\Web.csproj",
+              "ToolTip": "E:\\F88 Project\\Learn\\DepartMent_Manahement_BE\\Department_Management\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "Department_Management\\src\\Web\\Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T02:44:39.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
