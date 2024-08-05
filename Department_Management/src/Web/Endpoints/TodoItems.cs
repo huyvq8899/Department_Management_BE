@@ -12,19 +12,19 @@ public class TodoItems : EndpointGroupBase
     {
         app.MapGroup(this)
             .RequireAuthorization()
-            .MapGet(GetTodoItemsWithPagination)
+            .MapGet(GetTodoItemsWithPagination1)
             .MapPost(CreateTodoItem)
             .MapPut(UpdateTodoItem, "{id}")
             .MapPut(UpdateTodoItemDetail, "UpdateDetail/{id}")
             .MapDelete(DeleteTodoItem, "{id}");
     }
 
-    public Task<PaginatedList<TodoItemBriefDto>> GetTodoItemsWithPagination(ISender sender, [AsParameters] GetTodoItemsWithPaginationQuery query)
+    public Task<PaginatedList<TodoItemBriefDto>> GetTodoItemsWithPagination1(ISender sender, [AsParameters] GetTodoItemsWithPaginationQuery query)
     {
         return sender.Send(query);
     }
 
-    public Task<int> CreateTodoItem(ISender sender, CreateTodoItemCommand command)
+    public Task<Guid> CreateTodoItem(ISender sender, CreateTodoItemCommand command)
     {
         return sender.Send(command);
     }
